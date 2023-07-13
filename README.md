@@ -1,5 +1,5 @@
 # RAPIDKRILL
-test
+
 <img src="/docs/rapidkrill_color.png" alt="RAPIDKRILL logo" width="300"/>
 
 RAPIDKRILL is a Python application for processing echosounder data to
